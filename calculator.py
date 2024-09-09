@@ -7,3 +7,6 @@ class Calculator:
 
     def float_addition(float a, float b):
         return a + b
+
+    def float_addition(float a, float b):
+        return b + a
