@@ -4,3 +4,6 @@ class Calculator:
 
     def addition(int a, int b):
         return a + b
+
+    def float_addition(float a, float b):
+        return b + a
