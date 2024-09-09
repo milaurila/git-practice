@@ -6,5 +6,4 @@ class Calculator:
         return a + b
 
     def float_addition(float a, float b):
-        # Causes merge conflict
         return a + b
