@@ -13,3 +13,9 @@ class Calculator:
 
     def float_multiplication(float a, float b):
         return a * b
+
+    def int_division(int a, int b):
+        return a / b
+
+    def float_division(float a, float b):
+        return a / b
