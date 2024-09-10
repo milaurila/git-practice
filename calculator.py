@@ -25,3 +25,10 @@ class Calculator:
 
     def float_division(float a, float b):
         return a / b
+
+    def int_exp(int a, int b):
+        return a ** b
+
+    def float_exp(int a, int b):
+        return a ** b
+
