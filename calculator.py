@@ -35,3 +35,5 @@ class Calculator:
     def float_exp(int a, int b):
         return a ** b
 
+    def length(a, b):
+        return a + b
