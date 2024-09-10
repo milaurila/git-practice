@@ -25,3 +25,6 @@ class Calculator:
 
     def float_division(float a, float b):
         return a / b
+
+    def area(a, b):
+        return a * b
