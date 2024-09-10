@@ -28,3 +28,10 @@ class Calculator:
 
     def area(a, b):
         return a * b
+
+    def int_exp(int a, int b):
+        return a ** b
+
+    def float_exp(int a, int b):
+        return a ** b
+
